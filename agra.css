@@ -1,0 +1,36 @@
+body{
+    background: radial-gradient(#9cdcff, #1cafff);
+}
+
+.middle {
+    padding-top: 25px;
+    margin: 0 auto;
+    text-align: center;
+    width: 480px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    box-shadow: 20px 20px 20px black;
+}
+
+.middle h1 {
+    font-size: 3em;
+    padding: 15px;
+}
+.middle h3 {
+    font-size: 2em;
+    padding: 15px;
+}
+
+a{
+    text-align: center;
+    font-size: 1.8em;
+    text-decoration: none;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    border: 1px solid black;
+    width: 120px;
+    color: aliceblue;
+    box-shadow: 2px 1px 5px blue;
+}
